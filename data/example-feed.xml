@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title type="text">heise online News</title><subtitle type="html">Nachrichten nicht nur aus der Welt der Computer</subtitle>
+    <updated>2020-01-28T17:21:00+01:00</updated>
+    <id>https://www.heise.de/rss/heise-atom.xml</id>
+    <author>
+        <name>heise online</name><uri>https://www.heise.de</uri>
+    </author>
+    
+    <link rel="self" type="application/atom+xml" href="https://www.heise.de/rss/heise-atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://www.heise.de/"/>
+    <rights>Copyright (c) 2020 Heise Medien</rights>
+    <entry>
+        <title type="text">Endgültiges Aus für Aufklärungsdrohnen bei der Bundeswehr</title>
+        <id>http://heise.de/-4647319</id>
+        <updated>2020-01-28T17:21:00+01:00</updated>
+        <published>2020-01-28T17:21:00+01:00</published>
+        <link href="https://www.heise.de/newsticker/meldung/Endgueltiges-Aus-fuer-Aufklaerungsdrohnen-bei-der-Bundeswehr-4647319.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <summary type="html">Die Bundeswehr hat die Beschaffung von Drohnen des US-Herstellers
+Northrop Grumman gestoppt. Bemannte Jets sollen die Aufgabe übernehmen.</summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/newsticker/meldung/Endgueltiges-Aus-fuer-Aufklaerungsdrohnen-bei-der-Bundeswehr-4647319.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/2/8/3/2/1/4/7/shutterstock_167361152-d295b2bf24b83c23.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Die Bundeswehr hat die Beschaffung von Drohnen des US-Herstellers
+Northrop Grumman gestoppt. Bemannte Jets sollen die Aufgabe übernehmen.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="text">heise+ | Biobank für Organoide: &quot;Wir wollen eine personalisierte Medizin möglich machen&quot;</title>
+        <id>http://heise.de/-4629753</id>
+        <updated>2020-01-28T17:00:00+01:00</updated>
+        <published>2020-01-28T17:00:00+01:00</published>
+        <link href="https://www.heise.de/hintergrund/Die-Investmentwelt-war-nicht-bereit-fuer-Organoide-4629753.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus"/>
+        <summary type="html">Der Molekulargenetiker Hans Clevers baut eine ­gemeinnützige Biobank aus Mini­organen auf. Auf diese Weise will er den Patienten ins ­Labor bringen.</summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/hintergrund/Die-Investmentwelt-war-nicht-bereit-fuer-Organoide-4629753.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/02/2/8/1/9/1/8/9/eHealth-2c8503d3e651c2a5.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Der Molekulargenetiker Hans Clevers baut eine ­gemeinnützige Biobank aus Mini­organen auf. Auf diese Weise will er den Patienten ins ­Labor bringen.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="text">5G: Großbritannien verbannt Huawei und ZTE aus den Kernnetzen</title>
+        <id>http://heise.de/-4647112</id>
+        <updated>2020-01-28T16:55:00+01:00</updated>
+        <published>2020-01-28T16:55:00+01:00</published>
+        <link href="https://www.heise.de/newsticker/meldung/5G-Grossbritannien-verbannt-Huawei-und-ZTE-aus-den-Kernnetzen-4647112.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <summary type="html">Johnson stellt sich gegen Trump und lässt Huawei eingeschränkt zu. Auch in Washington findet die Chinesen Fürsprecher, während Deutschland weiter diskutiert.</summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/newsticker/meldung/5G-Grossbritannien-verbannt-Huawei-und-ZTE-aus-den-Kernnetzen-4647112.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/2/8/3/2/0/6/4/huawei-symbol-dunkel-schatten-mwc-2019-250219-vbr-8a976235294af8e0.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Johnson stellt sich gegen Trump und lässt Huawei eingeschränkt zu. Auch in Washington findet die Chinesen Fürsprecher, während Deutschland weiter diskutiert.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="text">heise-Angebot: Container, Microservices, Skalierbarkeit: Workshops für Java-Entwickler</title>
+        <id>http://heise.de/-4647037</id>
+        <updated>2020-01-28T16:13:00+01:00</updated>
+        <published>2020-01-28T16:13:00+01:00</published>
+        <link href="https://www.heise.de/ix/meldung/Container-Microservices-Skalierbarkeit-Workshops-fuer-Java-Entwickler-4647037.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <summary type="html">Moderne Ansätze wie Microservices, Container und skalierbare Anwendungen erfordern neue Konzepte, Architekturen und Techniken. </summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/ix/meldung/Container-Microservices-Skalierbarkeit-Workshops-fuer-Java-Entwickler-4647037.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/2/8/3/1/9/9/4/java-8064f2cb98b10682-0afe523839a87c68.png" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Moderne Ansätze wie Microservices, Container und skalierbare Anwendungen erfordern neue Konzepte, Architekturen und Techniken. </p>]]></content>
+    </entry>
+    <entry>
+        <title type="text">Lenovo ThinkPad: Updates beheben Probleme mit Thunderbolt</title>
+        <id>http://heise.de/-4647100</id>
+        <updated>2020-01-28T15:59:00+01:00</updated>
+        <published>2020-01-28T15:59:00+01:00</published>
+        <link href="https://www.heise.de/newsticker/meldung/Lenovo-ThinkPad-Updates-beheben-Probleme-mit-Thunderbolt-4647100.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <summary type="html">Von Lenovo als kritisch eingestufte Treiber-und Firmware-Updates für diverse ThinkPad-Modelle sollen unter anderem dem Ausfall von USB-C-Anschlüssen vorbeugen.</summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/newsticker/meldung/Lenovo-ThinkPad-Updates-beheben-Probleme-mit-Thunderbolt-4647100.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/2/8/3/2/0/5/2/shutterstock_1477002812-fcfe5c39cadf422e.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Von Lenovo als kritisch eingestufte Treiber-und Firmware-Updates für diverse ThinkPad-Modelle sollen unter anderem dem Ausfall von USB-C-Anschlüssen vorbeugen.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="text">betterplace.org sammelte 2019 mehr als eine Million Euro mit Charitystreams</title>
+        <id>http://heise.de/-4645504</id>
+        <updated>2020-01-28T15:54:00+01:00</updated>
+        <published>2020-01-28T15:54:00+01:00</published>
+        <link href="https://www.heise.de/newsticker/meldung/betterplace-org-sammelte-2019-mehr-als-eine-Million-Euro-mit-Charitystreams-4645504.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <summary type="html">Über betterplace.org kamen mit Charitystreams mehr als eine Million Euro Spenden zusammen. Die Plattform arbeitet dafür unter anderem mit Streamern von Twitch. </summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/newsticker/meldung/betterplace-org-sammelte-2019-mehr-als-eine-Million-Euro-mit-Charitystreams-4645504.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/2/8/3/0/7/3/6/shutterstock_631509563-b0f8a9b59acdfccb.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Über betterplace.org kamen mit Charitystreams mehr als eine Million Euro Spenden zusammen. Die Plattform arbeitet dafür unter anderem mit Streamern von Twitch. </p>]]></content>
+    </entry>
+    <entry>
+        <title type="text">DoubleTake: Mehrkamera-Aufnahmen mit neuen iPhones</title>
+        <id>http://heise.de/-4647329</id>
+        <updated>2020-01-28T15:43:00+01:00</updated>
+        <published>2020-01-28T15:43:00+01:00</published>
+        <link href="https://www.heise.de/mac-and-i/meldung/DoubleTake-Mehrkamera-Aufnahmen-mit-neuen-iPhones-4647329.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <summary type="html">Filmics kostenlose App zeigt eine Live-Vorschau der bis zu vier iPhone-Objektive und erlaubt, mit zwei Kameras gleichzeitig zu filmen.</summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/mac-and-i/meldung/DoubleTake-Mehrkamera-Aufnahmen-mit-neuen-iPhones-4647329.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/2/8/3/2/1/5/7/Bildschirmfoto_2020-01-28_um_14-7b0a06080832e270.png" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Filmics kostenlose App zeigt eine Live-Vorschau der bis zu vier iPhone-Objektive und erlaubt, mit zwei Kameras gleichzeitig zu filmen.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="text">GMX und Web.de stellen die Mail-App für Microsoft Windows ein</title>
+        <id>http://heise.de/-4647359</id>
+        <updated>2020-01-28T15:36:00+01:00</updated>
+        <published>2020-01-28T15:36:00+01:00</published>
+        <link href="https://www.heise.de/newsticker/meldung/GMX-und-Web-de-stellen-die-Mail-App-fuer-Microsoft-Windows-ein-4647359.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <summary type="html">Die Mail-Apps von GMX und Web.de für Microsoft Windows werden eingestellt. Stattdessen empfiehlt 1&amp;1 Mail und Media Nutzern den Webmail-Client oder MailCheck. </summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/newsticker/meldung/GMX-und-Web-de-stellen-die-Mail-App-fuer-Microsoft-Windows-ein-4647359.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/2/8/3/2/1/7/9/shutterstock_76778770-df88218a2d9c7c55.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Die Mail-Apps von GMX und Web.de für Microsoft Windows werden eingestellt. Stattdessen empfiehlt 1&1 Mail und Media Nutzern den Webmail-Client oder MailCheck. </p>]]></content>
+    </entry>
+    <entry>
+        <title type="text">US-Bürgerrechtler: App zu Amazons Ring-Kameras ist große Datenschleuder</title>
+        <id>http://heise.de/-4647310</id>
+        <updated>2020-01-28T15:12:00+01:00</updated>
+        <published>2020-01-28T15:12:00+01:00</published>
+        <link href="https://www.heise.de/newsticker/meldung/US-Buergerrechtler-App-zu-Amazons-Ring-Kameras-ist-grosse-Datenschleuder-4647310.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <summary type="html">Ring-Videoklingeln teilen heimlich via Android-App zahlreiche auch sensibelste Informationen über die Nutzer mit Facebook und großen Tracking-Firmen.</summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/newsticker/meldung/US-Buergerrechtler-App-zu-Amazons-Ring-Kameras-ist-grosse-Datenschleuder-4647310.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/2/8/3/2/1/4/0/RVD2_lifestyle_dark-04f242a748cea4e1.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Ring-Videoklingeln teilen heimlich via Android-App zahlreiche auch sensibelste Informationen über die Nutzer mit Facebook und großen Tracking-Firmen.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="text">TechStage | Ring Indoor Cam im Test: Sicherheits-Cam unter 60 Euro</title>
+        <id>https://techstage.de/-4646694</id>
+        <updated>2020-01-28T14:50:00+01:00</updated>
+        <published>2020-01-28T14:50:00+01:00</published>
+        <link href="https://www.techstage.de/news/Ring-Indoor-Cam-im-Test-Ueberwachungskamera-unter-60-Euro-4646694.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <summary type="html">Die Indoor Cam ist das zweite Modell von Ring für Innenräume. Sie bietet Full-HD-Aufnahmen, Bewegungs- und Personenerkennung. Wir haben die Cam getestet.</summary>
+        <content type="html"><![CDATA[<p><a href="https://www.techstage.de/news/Ring-Indoor-Cam-im-Test-Ueberwachungskamera-unter-60-Euro-4646694.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/2/8/3/2/0/3/1/Ring_169-3eb2b0ca13d5928d.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Die Indoor Cam ist das zweite Modell von Ring für Innenräume. Sie bietet Full-HD-Aufnahmen, Bewegungs- und Personenerkennung. Wir haben die Cam getestet.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="text">Schwarzer Desktop: Windows-7-Bug bestätigt und Fix für alle Nutzer geplant</title>
+        <id>http://heise.de/-4647027</id>
+        <updated>2020-01-28T14:21:00+01:00</updated>
+        <published>2020-01-28T14:21:00+01:00</published>
+        <link href="https://www.heise.de/newsticker/meldung/Schwarzer-Desktop-Windows-7-Bug-bestaetigt-und-Fix-fuer-alle-Nutzer-geplant-4647027.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <summary type="html">Trotz Win-7-Supportende will Microsoft ein durch das letzte Rollup-Update verursachtes Problem beheben – nicht nur für ESU-Kunden.</summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/newsticker/meldung/Schwarzer-Desktop-Windows-7-Bug-bestaetigt-und-Fix-fuer-alle-Nutzer-geplant-4647027.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/2/8/3/1/9/8/5/shutterstock_1433421917-88dc5f6c90f2e0ad.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Trotz Win-7-Supportende will Microsoft ein durch das letzte Rollup-Update verursachtes Problem beheben – nicht nur für ESU-Kunden.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="text">Facebook gibt Einblick und Kontrolle über geteilte Daten von Fremddiensten</title>
+        <id>http://heise.de/-4647003</id>
+        <updated>2020-01-28T14:14:00+01:00</updated>
+        <published>2020-01-28T14:14:00+01:00</published>
+        <link href="https://www.heise.de/newsticker/meldung/Facebook-gibt-Einblick-und-Kontrolle-ueber-geteilte-Daten-von-Fremddiensten-4647003.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <summary type="html">Mit &quot;Aktivitäten außerhalb von Facebook&quot; bringt das soziale Netzwerk eine Funktion zur Kontrolle der Datenweitergabe durch Dritte an den Start. </summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/newsticker/meldung/Facebook-gibt-Einblick-und-Kontrolle-ueber-geteilte-Daten-von-Fremddiensten-4647003.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/2/8/3/1/9/6/1/shutterstock_1437011126-9f52974154c8a322.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Mit "Aktivitäten außerhalb von Facebook" bringt das soziale Netzwerk eine Funktion zur Kontrolle der Datenweitergabe durch Dritte an den Start. </p>]]></content>
+    </entry>
+    <entry>
+        <title type="text">heise+ | Kryptografie in Go</title>
+        <id>http://heise.de/-4641922</id>
+        <updated>2020-01-28T14:00:00+01:00</updated>
+        <published>2020-01-28T14:00:00+01:00</published>
+        <link href="https://www.heise.de/ratgeber/Kryptografie-in-Go-4641922.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus"/>
+        <summary type="html">Die Programmiersprache Go eignet sich zur Implementierung kryptografischer Anwendungen. Für Passwort-Hashing und Zufallserzeugung empfehlen sich Zusatzpakete.</summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/ratgeber/Kryptografie-in-Go-4641922.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/02/2/8/2/7/8/4/7/crypt_go-ab852c6d44dd08de.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Die Programmiersprache Go eignet sich zur Implementierung kryptografischer Anwendungen. Für Passwort-Hashing und Zufallserzeugung empfehlen sich Zusatzpakete.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="text">Sicherheitslücken in Intel-CPUs: Modifizierte Angriffe erfordern BIOS-Updates</title>
+        <id>http://heise.de/-4647081</id>
+        <updated>2020-01-28T13:58:00+01:00</updated>
+        <published>2020-01-28T13:58:00+01:00</published>
+        <link href="https://www.heise.de/security/meldung/Sicherheitsluecken-in-Intel-CPUs-Modifizierte-Angriffe-erfordern-BIOS-Updates-4647081.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <summary type="html">CacheOut beziehungsweise L1D Eviction Sampling (L1DES) umgehen bisherige Sicherheits-Updates für Intel-Prozessoren.</summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/security/meldung/Sicherheitsluecken-in-Intel-CPUs-Modifizierte-Angriffe-erfordern-BIOS-Updates-4647081.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/2/8/3/2/0/3/7/Spectre-fef0e9c8a19e9530.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>CacheOut beziehungsweise L1D Eviction Sampling (L1DES) umgehen bisherige Sicherheits-Updates für Intel-Prozessoren.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="text">Apple stellt Patentantrag für Glas-Computer</title>
+        <id>http://heise.de/-4646660</id>
+        <updated>2020-01-28T13:54:00+01:00</updated>
+        <published>2020-01-28T13:54:00+01:00</published>
+        <link href="https://www.heise.de/mac-and-i/meldung/Apple-stellt-Patentantrag-fuer-Glas-Computer-4646660.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <summary type="html">Der Mac-Hersteller will sich einen Computer schützen lassen, der Bildschirm, Komponenten und Eingabegeräte in einem durchgehenden Glaselement vereint.</summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/mac-and-i/meldung/Apple-stellt-Patentantrag-fuer-Glas-Computer-4646660.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/2/8/3/1/6/4/1/urn-newsml-dpa-com-20090101-140122-99-03271_large_4_3-f87612bc147a75d9.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Der Mac-Hersteller will sich einen Computer schützen lassen, der Bildschirm, Komponenten und Eingabegeräte in einem durchgehenden Glaselement vereint.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="text">Pokémon Go: Fan-Fest in Dortmund spülte 38 Millionen Euro in die Kassen</title>
+        <id>http://heise.de/-4647011</id>
+        <updated>2020-01-28T13:46:00+01:00</updated>
+        <published>2020-01-28T13:46:00+01:00</published>
+        <link href="https://www.heise.de/newsticker/meldung/Pokemon-Go-Fan-Fest-in-Dortmund-spuelte-38-Millionen-Euro-in-die-Kassen-4647011.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <summary type="html">Das im Sommer stattfindende Pokémon-Go-Fest in Dortmund hat sich für Stadt und Region gelohnt: Fast 90.000 Fans nahmen teil. </summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/newsticker/meldung/Pokemon-Go-Fan-Fest-in-Dortmund-spuelte-38-Millionen-Euro-in-die-Kassen-4647011.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/2/8/3/1/9/6/9/unnamed-f98ac7c4d36cac44.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Das im Sommer stattfindende Pokémon-Go-Fest in Dortmund hat sich für Stadt und Region gelohnt: Fast 90.000 Fans nahmen teil. </p>]]></content>
+    </entry>
+    <entry>
+        <title type="text">Zahlen, bitte: 13 oder 12? Ein Rätsel gewinnt die Wahl</title>
+        <id>http://heise.de/-4647041</id>
+        <updated>2020-01-28T13:37:00+01:00</updated>
+        <published>2020-01-28T13:37:00+01:00</published>
+        <link href="https://www.heise.de/newsticker/meldung/Zahlen-bitte-13-oder-12-Ein-Raetsel-gewinnt-die-Wahl-4647041.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <summary type="html">Mitunter ist es ein Rätsel, wie ein späterer US-Präsident die Wahl gewinnen konnte. Einmal gewann ein Rätsel die Wahl.</summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/newsticker/meldung/Zahlen-bitte-13-oder-12-Ein-Raetsel-gewinnt-die-Wahl-4647041.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/2/8/3/1/9/9/8/ZahlenBitte_12-b523a56f16965eda.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Mitunter ist es ein Rätsel, wie ein späterer US-Präsident die Wahl gewinnen konnte. Einmal gewann ein Rätsel die Wahl.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="text">Monitoring-Dashboard Grafana 6.6 bietet vielseitigere Panels</title>
+        <id>http://heise.de/-4647058</id>
+        <updated>2020-01-28T13:26:00+01:00</updated>
+        <published>2020-01-28T13:26:00+01:00</published>
+        <link href="https://www.heise.de/developer/meldung/Monitoring-Dashboard-Grafana-6-6-bietet-vielseitigere-Panels-4647058.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <summary type="html">Im Update des Visualisierungs- und Monitoring-Tools finden Nutzer erweiterte Optionen zum Anzeigen verschiedener Metriken.</summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/developer/meldung/Monitoring-Dashboard-Grafana-6-6-bietet-vielseitigere-Panels-4647058.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/2/8/3/2/0/1/4/monitoring-c1a17ee2998bad8a.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Im Update des Visualisierungs- und Monitoring-Tools finden Nutzer erweiterte Optionen zum Anzeigen verschiedener Metriken.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="text">Chris Lattner landet bei RISC-V-Unternehmen</title>
+        <id>http://heise.de/-4646835</id>
+        <updated>2020-01-28T13:18:00+01:00</updated>
+        <published>2020-01-28T13:18:00+01:00</published>
+        <link href="https://www.heise.de/developer/meldung/Chris-Lattner-landet-bei-RISC-V-Unternehmen-4646835.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <summary type="html">Der frühere Chefarchitekt der Programmiersprache Swift verlässt Google und schlägt nun als Senior Vice President of Platform Engineering bei SiFive auf. </summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/developer/meldung/Chris-Lattner-landet-bei-RISC-V-Unternehmen-4646835.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/2/8/3/1/8/0/1/Prozessor01-7cc6574071e5ba30.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Der frühere Chefarchitekt der Programmiersprache Swift verlässt Google und schlägt nun als Senior Vice President of Platform Engineering bei SiFive auf. </p>]]></content>
+    </entry>
+    <entry>
+        <title type="text">McAfee-Studie: Public Cloud weltweit außer Kontrolle</title>
+        <id>http://heise.de/-4646924</id>
+        <updated>2020-01-28T13:08:00+01:00</updated>
+        <published>2020-01-28T13:08:00+01:00</published>
+        <link href="https://www.heise.de/ix/meldung/McAfee-Studie-Sensible-Daten-in-Public-Cloud-weltweit-ausser-Kontrolle-4646924.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <summary type="html">Weltweit ringen Unternehmen mit der Public Cloud – fast alle Befragten einer aktuellen Studie setzen sie ein und der Großteil verliert über sie sensible Daten.</summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/ix/meldung/McAfee-Studie-Sensible-Daten-in-Public-Cloud-weltweit-ausser-Kontrolle-4646924.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/2/8/3/1/8/9/0/cloud_masterbild-7a206559a20d3ebc.png" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Weltweit ringen Unternehmen mit der Public Cloud – fast alle Befragten einer aktuellen Studie setzen sie ein und der Großteil verliert über sie sensible Daten.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="text">OurMine: Social-Media-Accounts von 15 NFL-Teams gehackt</title>
+        <id>http://heise.de/-4646971</id>
+        <updated>2020-01-28T11:34:00+01:00</updated>
+        <published>2020-01-28T11:34:00+01:00</published>
+        <link href="https://www.heise.de/newsticker/meldung/OurMine-Social-Media-Accounts-von-15-NFL-Teams-gehackt-4646971.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <summary type="html">Die Hacker-Gruppe OurMine wollte der NFL ihre Sicherheitsdienste anbieten. Die reagierte nicht und Social-Media-Konten der NFL wurden angegriffen.</summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/newsticker/meldung/OurMine-Social-Media-Accounts-von-15-NFL-Teams-gehackt-4646971.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/2/8/3/1/9/3/3/shutterstock_1038184249-c02c548e22980eec.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Die Hacker-Gruppe OurMine wollte der NFL ihre Sicherheitsdienste anbieten. Die reagierte nicht und Social-Media-Konten der NFL wurden angegriffen.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="text">Smarte Rollos: Ikea gibt HomeKit-Updates für Europa frei</title>
+        <id>http://heise.de/-4646725</id>
+        <updated>2020-01-28T11:27:00+01:00</updated>
+        <published>2020-01-28T11:27:00+01:00</published>
+        <link href="https://www.heise.de/mac-and-i/meldung/Smarte-Rollos-Ikea-gibt-HomeKit-Updates-fuer-Europa-frei-4646725.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <summary type="html">Nach Behebung eines nervigen Bugs sollen Fyrtur und Kadrilj nun endlich in Apple-Smarthomes arbeiten. Zuvor war ein Update zurückgezogen worden.</summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/mac-and-i/meldung/Smarte-Rollos-Ikea-gibt-HomeKit-Updates-fuer-Europa-frei-4646725.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/2/8/3/1/7/0/3/142913-204062-204061_rc-18cb5f9f4cfb5e98.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Nach Behebung eines nervigen Bugs sollen Fyrtur und Kadrilj nun endlich in Apple-Smarthomes arbeiten. Zuvor war ein Update zurückgezogen worden.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="text">Qt Company schränkt Long-Term-Support-Versionen auf zahlende Kunden ein</title>
+        <id>http://heise.de/-4646791</id>
+        <updated>2020-01-28T11:24:00+01:00</updated>
+        <published>2020-01-28T11:24:00+01:00</published>
+        <link href="https://www.heise.de/developer/meldung/Qt-Company-schraenkt-Long-Term-Support-Versionen-auf-zahlende-Kunden-ein-4646791.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <summary type="html">Künftig benötigen Entwickler einen Qt-Account für die Installation von Binarys und LTS-Versionen sowie der Offline-Installer sind zahlenden Kunden vorbehalten.</summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/developer/meldung/Qt-Company-schraenkt-Long-Term-Support-Versionen-auf-zahlende-Kunden-ein-4646791.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/2/8/3/1/7/6/3/Schloss-c294dd6a9af05f31.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Künftig benötigen Entwickler einen Qt-Account für die Installation von Binarys und LTS-Versionen sowie der Offline-Installer sind zahlenden Kunden vorbehalten.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="text">Avast Antivirus verkauft massenhaft Browser-Daten seiner Nutzer</title>
+        <id>http://heise.de/-4646926</id>
+        <updated>2020-01-28T11:23:00+01:00</updated>
+        <published>2020-01-28T11:23:00+01:00</published>
+        <link href="https://www.heise.de/newsticker/meldung/Avast-Antivirus-verkauft-massenhaft-Browser-Daten-seiner-Nutzer-4646926.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <summary type="html">Über ein Tochterunternehmen soll der Antiviren-Software-Anbieter Avast massenhaft Browser-Daten von Nutzern verkauft haben. </summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/newsticker/meldung/Avast-Antivirus-verkauft-massenhaft-Browser-Daten-seiner-Nutzer-4646926.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/2/8/3/1/8/9/2/Avast133-b42ecaa849dde21e.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Über ein Tochterunternehmen soll der Antiviren-Software-Anbieter Avast massenhaft Browser-Daten von Nutzern verkauft haben. </p>]]></content>
+    </entry>
+    <entry>
+        <title type="text">DreamHack: Ausflug zur großen LAN-Party und zu den CaseModdern</title>
+        <id>http://heise.de/-4646892</id>
+        <updated>2020-01-28T10:59:00+01:00</updated>
+        <published>2020-01-28T10:59:00+01:00</published>
+        <link href="https://www.heise.de/newsticker/meldung/DreamHack-Ausflug-zur-grossen-LAN-Party-4646892.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <summary type="html">Die DreamHack Leipzig – bestehende aus LAN-Party, Messe und Turnieren – zog 23.000 Zuschauer an.</summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/newsticker/meldung/DreamHack-Ausflug-zur-grossen-LAN-Party-4646892.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/2/8/3/1/8/5/8/LAN_-_IMG_0208-7d4dec2726e84431.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Die DreamHack Leipzig – bestehende aus LAN-Party, Messe und Turnieren – zog 23.000 Zuschauer an.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="text">Wenige Meter Abstand: Zwei inaktive Satelliten vor Beinah-Kollision</title>
+        <id>http://heise.de/-4646867</id>
+        <updated>2020-01-28T10:53:00+01:00</updated>
+        <published>2020-01-28T10:53:00+01:00</published>
+        <link href="https://www.heise.de/newsticker/meldung/Wenige-Meter-Abstand-Zwei-inaktive-Satelliten-vor-Beinah-Kollision-4646867.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <summary type="html">Zwei seit Jahrzehnten inaktive Satelliten rasen Mittwochnacht mit wenigen Metern Abstand aneinander vorbei. Eine Kollision ist möglich, warnt eine US-Firma.</summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/newsticker/meldung/Wenige-Meter-Abstand-Zwei-inaktive-Satelliten-vor-Beinah-Kollision-4646867.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/2/8/3/1/8/3/3/Unbenannt-2-6afe635a450d0787.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Zwei seit Jahrzehnten inaktive Satelliten rasen Mittwochnacht mit wenigen Metern Abstand aneinander vorbei. Eine Kollision ist möglich, warnt eine US-Firma.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="text">Elixir 1.10 mit Compiler-Tracing und Release-Verbesserungen erschienen</title>
+        <id>http://heise.de/-4646232</id>
+        <updated>2020-01-28T10:46:00+01:00</updated>
+        <published>2020-01-28T10:46:00+01:00</published>
+        <link href="https://www.heise.de/developer/meldung/Elixir-1-10-mit-Compiler-Tracing-und-Release-Verbesserungen-erschienen-4646232.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <summary type="html">Das neue Release erscheint rund ein halbes Jahr nach dem Vorgänger Elixir 1.9 und baut größtenteils auf den dort eingezogenen Neuerungen auf.</summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/developer/meldung/Elixir-1-10-mit-Compiler-Tracing-und-Release-Verbesserungen-erschienen-4646232.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/2/8/3/1/3/3/7/elixir-44f162c5eb0191bf-e9db7af18f26f81f-019995f5c78cd256.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Das neue Release erscheint rund ein halbes Jahr nach dem Vorgänger Elixir 1.9 und baut größtenteils auf den dort eingezogenen Neuerungen auf.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="text">Congstar: Datentarife bekommen LTE und mehr Volumen</title>
+        <id>http://heise.de/-4646903</id>
+        <updated>2020-01-28T10:39:00+01:00</updated>
+        <published>2020-01-28T10:39:00+01:00</published>
+        <link href="https://www.heise.de/newsticker/meldung/Congstar-Datentarife-bekommen-LTE-und-mehr-Volumen-4646903.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <summary type="html">Congstar wertet seine drei reinen Datentarife deutlich auf: Neben Zugang zum LTE-Netz der Telekom wird das Inklusiv-Volumen teilweise verdoppelt. </summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/newsticker/meldung/Congstar-Datentarife-bekommen-LTE-und-mehr-Volumen-4646903.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/2/8/3/1/8/6/9/urn-newsml-dpa-com-20090101-140818-99-02601_large_4_3-d9691d641861d8c2.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Congstar wertet seine drei reinen Datentarife deutlich auf: Neben Zugang zum LTE-Netz der Telekom wird das Inklusiv-Volumen teilweise verdoppelt. </p>]]></content>
+    </entry>
+    <entry>
+        <title type="text">Anzeige: SharePoint, Outlook &amp; Co.: Microsoft 365 punktet mit Tools für die Zusammenarbeit</title>
+        <id>http://heise.de/-4646864</id>
+        <updated>2020-01-28T10:24:00+01:00</updated>
+        <published>2020-01-28T10:24:00+01:00</published>
+        <link href="https://www.heise.de/brandworlds/cloud-services/sharepoint-outlook-co-microsoft-365-punktet-mit-tools-fuer-die-zusammenarbeit/?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <summary type="html">Zahlreiche Tools, die in Microsoft 365 enthalten sind, verbessern die Zusammenarbeit. So profitieren Unternehmen von SharePoint, OneDrive und Outlook. </summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/brandworlds/cloud-services/sharepoint-outlook-co-microsoft-365-punktet-mit-tools-fuer-die-zusammenarbeit/?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/2/8/3/1/8/9/5/Telekom-Brandworld-Teaserbild__05__23_01_20_-_380x214-3660ec3dc53f9cf9.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Zahlreiche Tools, die in Microsoft 365 enthalten sind, verbessern die Zusammenarbeit. So profitieren Unternehmen von SharePoint, OneDrive und Outlook. </p>]]></content>
+    </entry>
+    <entry>
+        <title type="text">heise+ | Cloud-native Registry: Container-Infrastruktur sichern mit Harbor </title>
+        <id>http://heise.de/-4642064</id>
+        <updated>2020-01-28T10:00:00+01:00</updated>
+        <published>2020-01-28T10:00:00+01:00</published>
+        <link href="https://www.heise.de/tests/Cloud-native-Registry-Container-Infrastruktur-sichern-mit-Harbor-4642064.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus"/>
+        <summary type="html">Wer Container in produktiven Umgebungen einsetzt, muss auch auf Sicherheit achten. Hier kann die Cloud-native Container-Registry Harbor helfen. </summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/tests/Cloud-native-Registry-Container-Infrastruktur-sichern-mit-Harbor-4642064.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/02/2/8/2/7/9/5/4/harbor_a1-b5ae1d25bc449274.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Wer Container in produktiven Umgebungen einsetzt, muss auch auf Sicherheit achten. Hier kann die Cloud-native Container-Registry Harbor helfen. </p>]]></content>
+    </entry>
+    <entry>
+        <title type="text">Amazon-Mitarbeiter protestieren gegen Kündigungsandrohung</title>
+        <id>http://heise.de/-4646114</id>
+        <updated>2020-01-28T09:26:00+01:00</updated>
+        <published>2020-01-28T09:26:00+01:00</published>
+        <link href="https://www.heise.de/newsticker/meldung/Amazon-Mtarbeiter-protestieren-gegen-Kuendigungsandrohung-4646114.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <summary type="html">Klimaaktivisten von Amazon protestieren gegen den Versuch ihres Arbeitgebers, die Mitarbeiter-Gruppierung ruhigzustellen.
+</summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/newsticker/meldung/Amazon-Mtarbeiter-protestieren-gegen-Kuendigungsandrohung-4646114.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/2/8/3/1/2/5/8/shutterstock_1077977219-8f482b572ed63067.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Klimaaktivisten von Amazon protestieren gegen den Versuch ihres Arbeitgebers, die Mitarbeiter-Gruppierung ruhigzustellen.
+</p>]]></content>
+    </entry>
+    <entry>
+        <title type="text">SAP: Gewinneinbruch wegen Konzernumbaus, Cloud-Geschäft erfolgreich</title>
+        <id>http://heise.de/-4646767</id>
+        <updated>2020-01-28T09:15:00+01:00</updated>
+        <published>2020-01-28T09:15:00+01:00</published>
+        <link href="https://www.heise.de/newsticker/meldung/SAP-Gewinneinbruch-wegen-Konzernumbaus-Cloud-Geschaeft-erfolgreich-4646767.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <summary type="html">Die Umstrukturierung des Unternehmens beschert SAP für 2019 ein ordentliches Loch in der Kasse, doch die Cloud-Geschäfte sind weiter im Aufwind. </summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/newsticker/meldung/SAP-Gewinneinbruch-wegen-Konzernumbaus-Cloud-Geschaeft-erfolgreich-4646767.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/2/8/3/1/7/4/5/shutterstock_1333226120-3095140acfc11030.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Die Umstrukturierung des Unternehmens beschert SAP für 2019 ein ordentliches Loch in der Kasse, doch die Cloud-Geschäfte sind weiter im Aufwind. </p>]]></content>
+    </entry>
+    <entry>
+        <title type="text">Wikipedianer bekommt Verdienstmedaille der Bundesrepublik</title>
+        <id>http://heise.de/-4646783</id>
+        <updated>2020-01-28T08:41:00+01:00</updated>
+        <published>2020-01-28T08:41:00+01:00</published>
+        <link href="https://www.heise.de/newsticker/meldung/Wikipedianer-bekommt-Verdienstmedaille-der-Bundesrepublik-4646783.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <summary type="html">Erstmals hat ein Wikipedia-Ehrenamtlicher eine Verdienstauszeichnung der Bundesrepublik Deutschland bekommen.</summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/newsticker/meldung/Wikipedianer-bekommt-Verdienstmedaille-der-Bundesrepublik-4646783.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/2/8/3/1/7/5/7/schwabe-af27bbf630cee921.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Erstmals hat ein Wikipedia-Ehrenamtlicher eine Verdienstauszeichnung der Bundesrepublik Deutschland bekommen.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="text">heise+ | Smartphone gegen Kamera: Bildqualität im Vergleich</title>
+        <id>http://heise.de/-4644105</id>
+        <updated>2020-01-28T08:00:00+01:00</updated>
+        <published>2020-01-28T08:00:00+01:00</published>
+        <link href="https://www.heise.de/tests/Smartphone-gegen-Kamera-Bildqualitaet-im-Vergleich-4644105.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus"/>
+        <summary type="html">Smartphones sind die besseren Kameras! Das Werbemantra wirkt. Doch wo stehen die mobilen Alleskönner tatsächlich in Sachen Bildqualität?</summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/tests/Smartphone-gegen-Kamera-Bildqualitaet-im-Vergleich-4644105.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/02/2/8/2/9/6/7/3/000_Aufmacher-4be8f0cf44462ea1.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Smartphones sind die besseren Kameras! Das Werbemantra wirkt. Doch wo stehen die mobilen Alleskönner tatsächlich in Sachen Bildqualität?</p>]]></content>
+    </entry>
+    <entry>
+        <title type="text">Ioki-Sammeltaxi: 300.000 Fahrgäste in anderthalb Jahren</title>
+        <id>http://heise.de/-4646763</id>
+        <updated>2020-01-28T07:50:00+01:00</updated>
+        <published>2020-01-28T07:50:00+01:00</published>
+        <link href="https://www.heise.de/newsticker/meldung/Ioki-Sammeltaxi-300-000-Fahrgaeste-in-anderthalb-Jahren-4646763.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <summary type="html">In Hamburg kann in drei Stadtteilen der Elektro-Shuttle Ioki genutzt werden. Für ihn lassen manche Fahrgäste das Auto stehen, wie die Betreiber kundtun.</summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/newsticker/meldung/Ioki-Sammeltaxi-300-000-Fahrgaeste-in-anderthalb-Jahren-4646763.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/2/8/3/1/7/4/1/vhh_ioki_on-demand-4-ebf92f49ea14e1c0.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>In Hamburg kann in drei Stadtteilen der Elektro-Shuttle Ioki genutzt werden. Für ihn lassen manche Fahrgäste das Auto stehen, wie die Betreiber kundtun.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="text">Streit über Bonpflicht: Wozu der Bon? – Die technischen Vorgaben des Gesetzes</title>
+        <id>http://heise.de/-4646179</id>
+        <updated>2020-01-28T07:30:00+01:00</updated>
+        <published>2020-01-28T07:30:00+01:00</published>
+        <link href="https://www.heise.de/newsticker/meldung/Streit-ueber-Bonpflicht-Wozu-der-Bon-Die-technischen-Vorgaben-des-Gesetzes-4646179.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <summary type="html">Die neuen Kassengesetze sollen verhindern, dass Gewerbetreibende Umsätze vor dem Finanzamt verstecken. Doch was heißt das technisch? Und wofür der Bon?
+</summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/newsticker/meldung/Streit-ueber-Bonpflicht-Wozu-der-Bon-Die-technischen-Vorgaben-des-Gesetzes-4646179.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/2/8/3/1/3/1/0/shutterstock_1429315328-5a30d75dc05c61fc.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Die neuen Kassengesetze sollen verhindern, dass Gewerbetreibende Umsätze vor dem Finanzamt verstecken. Doch was heißt das technisch? Und wofür der Bon?
+</p>]]></content>
+    </entry>
+    <entry>
+        <title type="text">E-Tretroller: Bird übernimmt deutschen Rivalen Circ</title>
+        <id>http://heise.de/-4646759</id>
+        <updated>2020-01-28T06:12:00+01:00</updated>
+        <published>2020-01-28T06:12:00+01:00</published>
+        <link href="https://www.heise.de/newsticker/meldung/E-Tretroller-Bird-uebernimmt-deutschen-Rivalen-Circ-4646759.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <summary type="html">Die von der Branche erwartete Konzentration auf dem E-Tretrollermarkt in Deutschland scheint zu beginnen. Eine deutsche Firma wird geschluckt.</summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/newsticker/meldung/E-Tretroller-Bird-uebernimmt-deutschen-Rivalen-Circ-4646759.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/2/8/3/1/7/3/7/circ-7246010f2941316d.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Die von der Branche erwartete Konzentration auf dem E-Tretrollermarkt in Deutschland scheint zu beginnen. Eine deutsche Firma wird geschluckt.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="text">Studie: Allein auf Volkswagen kommen 4,5 Milliarden Euro CO2-Strafe zu</title>
+        <id>http://heise.de/-4646633</id>
+        <updated>2020-01-28T05:51:00+01:00</updated>
+        <published>2020-01-28T05:51:00+01:00</published>
+        <link href="https://www.heise.de/newsticker/meldung/Studie-Allein-auf-Volkswagen-kommen-4-5-Milliarden-Euro-CO2-Strafe-zu-4646633.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <summary type="html">Alle wichtigen Autobauer werden 2021 die EU-Flottenziele zum CO2-Ausstoß verfehlen, sagen Berater voraus. Am teuersten dürfte das für den Marktführer werden.</summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/newsticker/meldung/Studie-Allein-auf-Volkswagen-kommen-4-5-Milliarden-Euro-CO2-Strafe-zu-4646633.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/2/8/3/1/6/2/2/urn-newsml-dpa-com-20090101-180928-99-159990_large_4_3-0ae8b4ade50ac6c1.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Alle wichtigen Autobauer werden 2021 die EU-Flottenziele zum CO2-Ausstoß verfehlen, sagen Berater voraus. Am teuersten dürfte das für den Marktführer werden.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="text">Alzheimer-Forschung: Der Keim des Vergessens</title>
+        <id>http://heise.de/-4646407</id>
+        <updated>2020-01-28T05:27:00+01:00</updated>
+        <published>2020-01-28T05:27:00+01:00</published>
+        <link href="https://www.heise.de/newsticker/meldung/Alzheimer-Forschung-Der-Keim-des-Vergessens-4646407.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <summary type="html">War die Alzheimer-Forschung Jahrzehnte auf dem Holzweg? Eine bislang wenig beachtete These zu den Ursachen macht Hoffnung auf die ersten wirksamen Medikamente.</summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/newsticker/meldung/Alzheimer-Forschung-Der-Keim-des-Vergessens-4646407.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/2/8/3/1/4/4/7/shutterstock_556218034-ffed74c9d6282801.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>War die Alzheimer-Forschung Jahrzehnte auf dem Holzweg? Eine bislang wenig beachtete These zu den Ursachen macht Hoffnung auf die ersten wirksamen Medikamente.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="text">Machine Unlearning: Algorithmen können nichts vergessen</title>
+        <id>http://heise.de/-4646747</id>
+        <updated>2020-01-28T05:26:00+01:00</updated>
+        <published>2020-01-28T05:26:00+01:00</published>
+        <link href="https://www.heise.de/newsticker/meldung/Machine-Unlearning-Algorithmen-koennen-nichts-vergessen-4646747.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <summary type="html">Weil wir nicht wissen, wie die Maschine genau denkt, können wir sie nur indirekt vergessen lassen. Das wurde auf der Konferenz Usenix Enigma deutlich.</summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/newsticker/meldung/Machine-Unlearning-Algorithmen-koennen-nichts-vergessen-4646747.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/2/8/3/1/7/2/5/Papernot_Useix_Enigma-414b788e3b479e98.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Weil wir nicht wissen, wie die Maschine genau denkt, können wir sie nur indirekt vergessen lassen. Das wurde auf der Konferenz Usenix Enigma deutlich.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="text">Europäischer Datenschutztag: Kommission will DSGVO-Verstöße schärfer verfolgen</title>
+        <id>http://heise.de/-4646701</id>
+        <updated>2020-01-28T05:20:00+01:00</updated>
+        <published>2020-01-28T05:20:00+01:00</published>
+        <link href="https://www.heise.de/newsticker/meldung/Europaeischer-Datenschutztag-Kommission-will-DSGVO-Verstoesse-schaerfer-verfolgen-4646701.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <summary type="html">Datenschützer sollen durch eine bessere Zusammenarbeit die DSGVO stärker durchsetzen, heißt es in Brüssel. Sie bräuchten dafür auch die nötigen Ressourcen.</summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/newsticker/meldung/Europaeischer-Datenschutztag-Kommission-will-DSGVO-Verstoesse-schaerfer-verfolgen-4646701.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/2/8/3/1/6/7/9/P041976-492093-4d513d153a2f48fd.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Datenschützer sollen durch eine bessere Zusammenarbeit die DSGVO stärker durchsetzen, heißt es in Brüssel. Sie bräuchten dafür auch die nötigen Ressourcen.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="text">heise+ | Volumetrisches Studio Babelsberg: Echtzeiterfassung kompletter Bewegungsabläufe</title>
+        <id>http://heise.de/-4640857</id>
+        <updated>2020-01-27T20:00:00+01:00</updated>
+        <published>2020-01-27T20:00:00+01:00</published>
+        <link href="https://www.heise.de/hintergrund/Volumetrisches-Studio-Babelsberg-Echtzeiterfassung-kompletter-Bewegungsablaeufe-4640857.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus"/>
+        <summary type="html">Lebewesen für filmische Zwecke digital nachzubilden, ist mühselig. Volumetric Video hat das Zeug, die Prozesse abzukürzen und neue Erzählformen zu eröffnen.</summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/hintergrund/Volumetrisches-Studio-Babelsberg-Echtzeiterfassung-kompletter-Bewegungsablaeufe-4640857.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/02/2/8/2/7/0/4/6/jd-9ddc8f13f89634ba.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Lebewesen für filmische Zwecke digital nachzubilden, ist mühselig. Volumetric Video hat das Zeug, die Prozesse abzukürzen und neue Erzählformen zu eröffnen.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="text">TechStage | WD Black SN750 im Test: NVMe-Datenspeicher speziell für Gamer</title>
+        <id>https://techstage.de/-4646011</id>
+        <updated>2020-01-27T17:58:00+01:00</updated>
+        <published>2020-01-27T17:58:00+01:00</published>
+        <link href="https://www.techstage.de/news/WD-Black-SN750-im-Test-NVMe-Datenspeicher-fuer-Gamer-4646011.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <summary type="html">Wir schicken die 1 TByte große NVMe WD Black SN750 durch unseren Benchmark. Kann der Speicher mit dem speziellen Gaming Mode punkten?</summary>
+        <content type="html"><![CDATA[<p><a href="https://www.techstage.de/news/WD-Black-SN750-im-Test-NVMe-Datenspeicher-fuer-Gamer-4646011.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/2/8/3/1/5/7/4/WDBlackSN750_ho-11c27253966b2ecd.png" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Wir schicken die 1 TByte große NVMe WD Black SN750 durch unseren Benchmark. Kann der Speicher mit dem speziellen Gaming Mode punkten?</p>]]></content>
+    </entry>
+    <entry>
+        <title type="text">ProtonVPN veröffentlicht Client-Anwendungen als freie und auditierte Software</title>
+        <id>http://heise.de/-4646599</id>
+        <updated>2020-01-27T17:43:00+01:00</updated>
+        <published>2020-01-27T17:43:00+01:00</published>
+        <link href="https://www.heise.de/ix/meldung/ProtonVPN-veroeffentlicht-Client-Anwendungen-als-freie-und-auditierte-Software-4646599.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <summary type="html">Alle ProtonVPN-Apps stehen von nun an unter der GPLv3. Darüber hinaus hat der Entwickler für jedes Programm Sicherheitsprüfungen durchführen lassen.</summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/ix/meldung/ProtonVPN-veroeffentlicht-Client-Anwendungen-als-freie-und-auditierte-Software-4646599.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/2/8/3/1/6/0/2/protonvpn_masterbild-41d99a876675f485.png" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Alle ProtonVPN-Apps stehen von nun an unter der GPLv3. Darüber hinaus hat der Entwickler für jedes Programm Sicherheitsprüfungen durchführen lassen.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="text">Emotet: IT-Totalschaden beim Kammergericht Berlin </title>
+        <id>http://heise.de/-4646568</id>
+        <updated>2020-01-27T17:30:00+01:00</updated>
+        <published>2020-01-27T17:30:00+01:00</published>
+        <link href="https://www.heise.de/security/meldung/Emotet-IT-Totalschaden-beim-Kammergericht-Berlin-4646568.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <summary type="html">Interne Daten wurden geklaut und &quot;ein kompletter Neuaufbau der IT-Infrastruktur wird [...] angeraten&quot;, heißt es im forensischen Bericht zum Emotet-Befall.</summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/security/meldung/Emotet-IT-Totalschaden-beim-Kammergericht-Berlin-4646568.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/2/8/3/1/5/7/7/shutterstock_561861259-60c5f6f9bf380d62.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Interne Daten wurden geklaut und "ein kompletter Neuaufbau der IT-Infrastruktur wird [...] angeraten", heißt es im forensischen Bericht zum Emotet-Befall.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="text">Fokus auf Datenschutz: Verizon Media startet Suchmaschine OneSearch</title>
+        <id>http://heise.de/-4646378</id>
+        <updated>2020-01-27T17:21:00+01:00</updated>
+        <published>2020-01-27T17:21:00+01:00</published>
+        <link href="https://www.heise.de/newsticker/meldung/Fokus-auf-Datenschutz-Verizon-Media-startet-Suchmaschine-OneSearch-4646378.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <summary type="html">Verizon Media startet mit OneSearch eine neue Suchmaschine, die den Fokus auf den Datenschutz legt. Die Basis dahinter ist Bing. </summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/newsticker/meldung/Fokus-auf-Datenschutz-Verizon-Media-startet-Suchmaschine-OneSearch-4646378.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/2/8/3/1/4/2/6/Verizon-b5de7e839635e281.png" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Verizon Media startet mit OneSearch eine neue Suchmaschine, die den Fokus auf den Datenschutz legt. Die Basis dahinter ist Bing. </p>]]></content>
+    </entry>
+    <entry>
+        <title type="text">Fahrbericht Smart EQ: Bringt dich nicht weiter</title>
+        <id>http://heise.de/-4646423</id>
+        <updated>2020-01-27T17:00:00+01:00</updated>
+        <published>2020-01-27T17:00:00+01:00</published>
+        <link href="https://www.heise.de/autos/artikel/Fahrbericht-Smart-EQ-Fortwo-4646423.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <summary type="html">Daimler hat den Smart EQ sanft überarbeitet. Der Antriebsstrang samt kleiner Batterie blieb unangetastet, was durchaus mutig erscheint</summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/autos/artikel/Fahrbericht-Smart-EQ-Fortwo-4646423.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/2/8/3/1/5/8/2/01-65b77e4fd9185925.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Daimler hat den Smart EQ sanft überarbeitet. Der Antriebsstrang samt kleiner Batterie blieb unangetastet, was durchaus mutig erscheint</p>]]></content>
+    </entry>
+    <entry>
+        <title type="text">heise+ |  &quot;Making Time&quot; - Effizienter in der Werkstatt arbeiten</title>
+        <id>http://heise.de/-4638699</id>
+        <updated>2020-01-27T17:00:00+01:00</updated>
+        <published>2020-01-27T17:00:00+01:00</published>
+        <link href="https://www.heise.de/ratgeber/Making-Time-Effizienter-in-der-Werkstatt-arbeiten-4638699.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus"/>
+        <summary type="html">Mit diesen Tipps und Tricks zeigen prominente Maker, wie man das meiste aus Arbeitsplatz und Werkstatt rausholt.</summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/ratgeber/Making-Time-Effizienter-in-der-Werkstatt-arbeiten-4638699.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/02/2/8/2/5/3/8/5/image-1570187046511337-4b3a8388c54749d3.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Mit diesen Tipps und Tricks zeigen prominente Maker, wie man das meiste aus Arbeitsplatz und Werkstatt rausholt.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="text">Smartphone-Bank N26: 250.000 US-Kunden nach fünf Monaten</title>
+        <id>http://heise.de/-4646510</id>
+        <updated>2020-01-27T16:40:00+01:00</updated>
+        <published>2020-01-27T16:40:00+01:00</published>
+        <link href="https://www.heise.de/newsticker/meldung/Smartphone-Bank-N26-250-000-US-Kunden-nach-fuenf-Monaten-4646510.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <summary type="html">Nicht mal ein halbes Jahr nach Markteintritt in den USA kann die deutsche Smartphone-Bank N26 bereits eine Viertelmillion Kunden verzeichnen. </summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/newsticker/meldung/Smartphone-Bank-N26-250-000-US-Kunden-nach-fuenf-Monaten-4646510.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/2/8/3/1/5/3/2/urn-newsml-dpa-com-20090101-180224-99-221154_large_4_3-a7c5a875520d2449.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Nicht mal ein halbes Jahr nach Markteintritt in den USA kann die deutsche Smartphone-Bank N26 bereits eine Viertelmillion Kunden verzeichnen. </p>]]></content>
+    </entry>
+    <entry>
+        <title type="text">Potenziell schädlich: Mozilla löscht 197 Add-ons für Firefox</title>
+        <id>http://heise.de/-4646392</id>
+        <updated>2020-01-27T16:36:00+01:00</updated>
+        <published>2020-01-27T16:36:00+01:00</published>
+        <link href="https://www.heise.de/newsticker/meldung/Potenziell-schaedlich-Mozilla-loescht-197-Add-ons-fuer-Firefox-4646392.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <summary type="html">Mozilla hat insgesamt 197 Add-ons für Firefox gelöscht, die potenziell schädlich waren. Die meisten stammten vom selben Anbieter. </summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/newsticker/meldung/Potenziell-schaedlich-Mozilla-loescht-197-Add-ons-fuer-Firefox-4646392.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/2/8/3/1/4/3/6/shutterstock_1486183517-8b33cfdc28944a27.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Mozilla hat insgesamt 197 Add-ons für Firefox gelöscht, die potenziell schädlich waren. Die meisten stammten vom selben Anbieter. </p>]]></content>
+    </entry>
+    <entry>
+        <title type="text">BMW will nur noch mit Ökostrom produzieren</title>
+        <id>http://heise.de/-4646504</id>
+        <updated>2020-01-27T16:27:00+01:00</updated>
+        <published>2020-01-27T16:27:00+01:00</published>
+        <link href="https://www.heise.de/newsticker/meldung/BMW-will-nur-noch-mit-Oekostrom-produzieren-4646504.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <summary type="html">&quot;Noch in diesem Jahr werden wir in unseren Werken weltweit ausschließlich Strom aus regenerativen Energiequellen beziehen&quot;, sagte der BMW-Produktionsvorstand.</summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/newsticker/meldung/BMW-will-nur-noch-mit-Oekostrom-produzieren-4646504.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/2/8/3/1/5/2/6/P90362567-the-bmw-product-portfolio-in-the-luxury-segment-08-2019-2249px-1ebd5e22877b8605.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>"Noch in diesem Jahr werden wir in unseren Werken weltweit ausschließlich Strom aus regenerativen Energiequellen beziehen", sagte der BMW-Produktionsvorstand.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="text">Apps: US-Nutzer stecken Multi-Milliardenbetrag in Abos</title>
+        <id>http://heise.de/-4646500</id>
+        <updated>2020-01-27T16:21:00+01:00</updated>
+        <published>2020-01-27T16:21:00+01:00</published>
+        <link href="https://www.heise.de/mac-and-i/meldung/Apps-US-Nutzer-stecken-Multi-Milliardenbetrag-in-Abos-4646500.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <summary type="html">Apps verzeichnen nach Einschätzung von Marktforschern immer höhere Umsätze mit Abos – besonders auf dem iPhone. Dating und Entertainment liegen an der Spitze.</summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/mac-and-i/meldung/Apps-US-Nutzer-stecken-Multi-Milliardenbetrag-in-Abos-4646500.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/2/8/3/1/5/2/2/shutterstock_1216242235-ea2274051afa142d.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Apps verzeichnen nach Einschätzung von Marktforschern immer höhere Umsätze mit Abos – besonders auf dem iPhone. Dating und Entertainment liegen an der Spitze.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="text">Verbraucherschützer: Produkthaftung auch für Künstliche Intelligenz</title>
+        <id>http://heise.de/-4646489</id>
+        <updated>2020-01-27T16:14:00+01:00</updated>
+        <published>2020-01-27T16:14:00+01:00</published>
+        <link href="https://www.heise.de/newsticker/meldung/Verbraucherschuetzer-Produkthaftung-auch-fuer-Kuenstliche-Intelligenz-4646489.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <summary type="html">Das dreißig Jahre alte Produkthaftungsgesetz braucht ein Update, fordern Verbraucherschützer. Smarte Geräte seien oft fehlerhaft oder leicht zu hacken.</summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/newsticker/meldung/Verbraucherschuetzer-Produkthaftung-auch-fuer-Kuenstliche-Intelligenz-4646489.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/2/8/3/1/5/1/3/shutterstock_1384639505-507b2b5cfe539165.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Das dreißig Jahre alte Produkthaftungsgesetz braucht ein Update, fordern Verbraucherschützer. Smarte Geräte seien oft fehlerhaft oder leicht zu hacken.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="text">Steam: Medienanstalt meldet 219 Profile mit Nazi-Symbolen</title>
+        <id>http://heise.de/-4646466</id>
+        <updated>2020-01-27T16:02:00+01:00</updated>
+        <published>2020-01-27T16:02:00+01:00</published>
+        <link href="https://www.heise.de/newsticker/meldung/Steam-Medienanstalt-meldet-219-Profile-mit-Nazi-Symbolen-4646466.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <summary type="html">Die Medienanstalt Hamburg/Schleswig Holstein hat 219 Steam-Profile mit verfassungswidrigen Symbolen gemeldet. Die Inhalte wurden gelöscht.</summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/newsticker/meldung/Steam-Medienanstalt-meldet-219-Profile-mit-Nazi-Symbolen-4646466.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/2/8/3/1/4/9/6/shutterstock_703264159-cb26dfdc74d7364e.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Die Medienanstalt Hamburg/Schleswig Holstein hat 219 Steam-Profile mit verfassungswidrigen Symbolen gemeldet. Die Inhalte wurden gelöscht.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="text">Indien: Mobiles Internet in Kaschmir wieder zugänglich – aber nur mit 2G</title>
+        <id>http://heise.de/-4646520</id>
+        <updated>2020-01-27T16:01:00+01:00</updated>
+        <published>2020-01-27T16:01:00+01:00</published>
+        <link href="https://www.heise.de/newsticker/meldung/Indien-Mobiles-Internet-in-Kaschmir-wieder-zugaenglich-aber-nur-mit-2G-4646520.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <summary type="html">Die Regierung des indischen Teils von Kaschmir hat das mobile Internet teilweise wieder freigegeben. Aber nur für 2G und für wenige Hundert Websites.</summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/newsticker/meldung/Indien-Mobiles-Internet-in-Kaschmir-wieder-zugaenglich-aber-nur-mit-2G-4646520.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/2/8/3/1/5/4/1/shutterstock_232654801-15c931ad12762c8b.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Die Regierung des indischen Teils von Kaschmir hat das mobile Internet teilweise wieder freigegeben. Aber nur für 2G und für wenige Hundert Websites.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="text">Elektrische Maseratis sollen &quot;unverwechselbaren Sound&quot; bekommen</title>
+        <id>http://heise.de/-4646431</id>
+        <updated>2020-01-27T15:23:00+01:00</updated>
+        <published>2020-01-27T15:23:00+01:00</published>
+        <link href="https://www.heise.de/newsticker/meldung/Elektrische-Maseratis-sollen-unverwechselbaren-Sound-bekommen-4646431.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <summary type="html">Der italienische Autohersteller kündigt zwei Modelle an, die vollelektrisch betrieben werden sollen.</summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/newsticker/meldung/Elektrische-Maseratis-sollen-unverwechselbaren-Sound-bekommen-4646431.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/2/8/3/1/4/6/3/maserati-8a004c08c9c96d13.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Der italienische Autohersteller kündigt zwei Modelle an, die vollelektrisch betrieben werden sollen.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="text">Fahrzeug-IT, Bildung, Klima – VW und Microsoft rücken enger zusammen</title>
+        <id>http://heise.de/-4646441</id>
+        <updated>2020-01-27T14:56:00+01:00</updated>
+        <published>2020-01-27T14:56:00+01:00</published>
+        <link href="https://www.heise.de/newsticker/meldung/Fahrzeug-IT-Bildung-Klima-VW-und-Microsoft-ruecken-enger-zusammen-4646441.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <summary type="html">Der VW-Konzern ist in einem tiefgreifenden Umbruch. Beim Wandlungsprozess setzt der Autobauer aber auch auf die Hilfe eines Softwaregiganten.</summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/newsticker/meldung/Fahrzeug-IT-Bildung-Klima-VW-und-Microsoft-ruecken-enger-zusammen-4646441.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/2/8/3/1/4/7/3/urn-newsml-dpa-com-20090101-191121-99-825885_large_4_3-c50bef6f83c66e85.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Der VW-Konzern ist in einem tiefgreifenden Umbruch. Beim Wandlungsprozess setzt der Autobauer aber auch auf die Hilfe eines Softwaregiganten.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="text">Parallelwelt der IT: SAP-Basiswissen erklärt</title>
+        <id>http://heise.de/-4646413</id>
+        <updated>2020-01-27T14:53:00+01:00</updated>
+        <published>2020-01-27T14:53:00+01:00</published>
+        <link href="https://www.heise.de/ix/meldung/Parallelwelt-der-IT-SAP-Basiswissen-erklaert-4646413.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <summary type="html">SAP-Systeme bleiben für viele Anwender unverständlich – auch auf Kosten der Sicherheit. Zeit, grundlegende Begriffe und Techniken zu erläutern.</summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/ix/meldung/Parallelwelt-der-IT-SAP-Basiswissen-erklaert-4646413.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/2/8/3/1/4/5/3/sap_masterbild-54fcb2bcd7ec8b73.png" class="webfeedsFeaturedVisual" alt="" /></a></p><p>SAP-Systeme bleiben für viele Anwender unverständlich – auch auf Kosten der Sicherheit. Zeit, grundlegende Begriffe und Techniken zu erläutern.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="text">Tschechien: Programmierer schenken dem Staat einen Onlineshop</title>
+        <id>http://heise.de/-4646400</id>
+        <updated>2020-01-27T14:45:00+01:00</updated>
+        <published>2020-01-27T14:45:00+01:00</published>
+        <link href="https://www.heise.de/newsticker/meldung/Tschechien-Programmierer-schenken-dem-Staat-einen-Onlineshop-4646400.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <summary type="html">Ein tschechischer Minister wollte 16 Millionen Euro für einen Onlineshop für Autobahnvignetten ausgeben. Er ist seinen Posten los, den Shop gibt es für lau. </summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/newsticker/meldung/Tschechien-Programmierer-schenken-dem-Staat-einen-Onlineshop-4646400.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/2/8/3/1/4/4/0/shutterstock_1476252365-a44eecf141a70a43.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Ein tschechischer Minister wollte 16 Millionen Euro für einen Onlineshop für Autobahnvignetten ausgeben. Er ist seinen Posten los, den Shop gibt es für lau. </p>]]></content>
+    </entry>
+    <entry>
+        <title type="text">Mitsubishi-Hack: Sicherheitslücke in Anti-Viren-Software als Einfallstor</title>
+        <id>http://heise.de/-4646386</id>
+        <updated>2020-01-27T14:34:00+01:00</updated>
+        <published>2020-01-27T14:34:00+01:00</published>
+        <link href="https://www.heise.de/newsticker/meldung/Mitsubishi-Hack-Sicherheitsluecke-in-Anti-Viren-Software-als-Einfallstor-4646386.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <summary type="html">Es gibt neue Details über die Hacker-Attacke auf Mitsubishi Electric. Mittlerweile ist die Sicherheitslücke bekannt und was die Angreifer kopiert haben. </summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/newsticker/meldung/Mitsubishi-Hack-Sicherheitsluecke-in-Anti-Viren-Software-als-Einfallstor-4646386.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/2/8/3/1/4/3/0/shutterstock_721630210-b5b2d477eafc9cb1.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Es gibt neue Details über die Hacker-Attacke auf Mitsubishi Electric. Mittlerweile ist die Sicherheitslücke bekannt und was die Angreifer kopiert haben. </p>]]></content>
+    </entry>
+    <entry>
+        <title type="text">Voll auf Draht – Praxistest für E-Highway jetzt auch im Norden</title>
+        <id>http://heise.de/-4646438</id>
+        <updated>2020-01-27T14:27:00+01:00</updated>
+        <published>2020-01-27T14:27:00+01:00</published>
+        <link href="https://www.heise.de/newsticker/meldung/Voll-auf-Draht-Praxistest-fuer-E-Highway-jetzt-auch-im-Norden-4646438.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <summary type="html">Auf der A1 in Schleswig-Holstein beginnt der Testbetrieb des E-Highways – in Hessen läuft der Versuch schon. Für eine Zwischenbilanz ist es aber zu früh.</summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/newsticker/meldung/Voll-auf-Draht-Praxistest-fuer-E-Highway-jetzt-auch-im-Norden-4646438.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/2/8/3/1/4/7/0/e-highway-2-a199eb816c76806d-6bf0e5d86f329889.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Auf der A1 in Schleswig-Holstein beginnt der Testbetrieb des E-Highways – in Hessen läuft der Versuch schon. Für eine Zwischenbilanz ist es aber zu früh.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="text">heise+ | Der IoT-Bienenstock</title>
+        <id>http://heise.de/-4638518</id>
+        <updated>2020-01-27T14:00:00+01:00</updated>
+        <published>2020-01-27T14:00:00+01:00</published>
+        <link href="https://www.heise.de/hintergrund/Der-IoT-Bienenstock-4638518.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus"/>
+        <summary type="html">Imkerei mit technischer Unterstützung ist spannend und schont die Bienen. Ein Besuch bei einem Techno-Imker beschert interessante Einblicke in die Bienenwelt.</summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/hintergrund/Der-IoT-Bienenstock-4638518.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/02/2/8/2/5/2/6/4/image-1570183499648838-bc54ae6b25c4c1c7.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Imkerei mit technischer Unterstützung ist spannend und schont die Bienen. Ein Besuch bei einem Techno-Imker beschert interessante Einblicke in die Bienenwelt.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="text">Streaming: E-Sports von Activision läuft künftig exklusiv bei Youtube</title>
+        <id>http://heise.de/-4646317</id>
+        <updated>2020-01-27T13:38:00+01:00</updated>
+        <published>2020-01-27T13:38:00+01:00</published>
+        <link href="https://www.heise.de/newsticker/meldung/Streaming-E-Sports-von-Activision-laeuft-kuenftig-exklusiv-bei-Youtube-4646317.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <summary type="html">Die Profil-Ligen von Hearthstone, Call of Duty und Overwatch werden künftig nur bei Youtube übertragen. Außerdem setzt Activision auf die Google-Cloud. </summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/newsticker/meldung/Streaming-E-Sports-von-Activision-laeuft-kuenftig-exklusiv-bei-Youtube-4646317.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/2/8/3/1/3/9/7/wrecking-ball-screenshot-004-e8fff44d40d0b889.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Die Profil-Ligen von Hearthstone, Call of Duty und Overwatch werden künftig nur bei Youtube übertragen. Außerdem setzt Activision auf die Google-Cloud. </p>]]></content>
+    </entry>
+    <entry>
+        <title type="text">Mehr als 100 rechtsextreme Drohmails – Anklage gegen 31-Jährigen</title>
+        <id>http://heise.de/-4646368</id>
+        <updated>2020-01-27T13:29:00+01:00</updated>
+        <published>2020-01-27T13:29:00+01:00</published>
+        <link href="https://www.heise.de/newsticker/meldung/Mehr-als-100-rechtsextreme-Drohmails-Anklage-gegen-31-Jaehrigen-4646368.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <summary type="html">Über Monate kommen Mails mit rechtem Inhalt in ganz Deutschland an. Der wahre Absender ist zunächst nicht zu erkennen. Nun gibt es eine Anklage.</summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/newsticker/meldung/Mehr-als-100-rechtsextreme-Drohmails-Anklage-gegen-31-Jaehrigen-4646368.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/2/8/3/1/4/1/6/shutterstock_492858532-fb9197ba517967bd.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Über Monate kommen Mails mit rechtem Inhalt in ganz Deutschland an. Der wahre Absender ist zunächst nicht zu erkennen. Nun gibt es eine Anklage.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="text">AMD-Ryzen-Prozessoren: Gefälschte Boxed-Kühler Wraith Prism im Umlauf</title>
+        <id>http://heise.de/-4646255</id>
+        <updated>2020-01-27T12:36:00+01:00</updated>
+        <published>2020-01-27T12:36:00+01:00</published>
+        <link href="https://www.heise.de/newsticker/meldung/AMD-Ryzen-Prozessoren-Gefaelschte-Boxed-Kuehler-Wraith-Prism-im-Umlauf-4646255.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <summary type="html">Angeblich verbesserte Wraith-Prism-Kühler weisen zusätzliche Heatpipes auf, kommen jedoch nicht von AMD.</summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/newsticker/meldung/AMD-Ryzen-Prozessoren-Gefaelschte-Boxed-Kuehler-Wraith-Prism-im-Umlauf-4646255.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/2/8/3/1/3/5/4/AMD_Ryzen_System-33b9a6c214eea2c1.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Angeblich verbesserte Wraith-Prism-Kühler weisen zusätzliche Heatpipes auf, kommen jedoch nicht von AMD.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="text">Paketmanager: Yarn 2 strickt sich neu </title>
+        <id>http://heise.de/-4646123</id>
+        <updated>2020-01-27T12:25:00+01:00</updated>
+        <published>2020-01-27T12:25:00+01:00</published>
+        <link href="https://www.heise.de/developer/meldung/Paketmanager-Yarn-2-strickt-sich-neu-4646123.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <summary type="html">Rund ein Jahr nach der ersten Roadmap für die neue Version des Paketmanagers Yarn hat das dahinterstehende Entwicklerteam die Arbeiten abgeschlossen.</summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/developer/meldung/Paketmanager-Yarn-2-strickt-sich-neu-4646123.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/2/8/3/1/2/6/7/shutterstock_1559741477-ff8227c0495ca9bc.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Rund ein Jahr nach der ersten Roadmap für die neue Version des Paketmanagers Yarn hat das dahinterstehende Entwicklerteam die Arbeiten abgeschlossen.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="text">Gefährliche Sicherheitslücke: Alle Updates für Citrix-Schwachstelle erschienen</title>
+        <id>http://heise.de/-4646177</id>
+        <updated>2020-01-27T12:09:00+01:00</updated>
+        <published>2020-01-27T12:09:00+01:00</published>
+        <link href="https://www.heise.de/security/meldung/Gefaehrliche-Sicherheitsluecke-Alle-Updates-fuer-Citrix-Schwachstelle-erschienen-4646177.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <summary type="html">Admins können nun alle betroffenen Citrix-Systeme patchen. Problematisch ist, dass einige Angreifer eine Backdoor hinterlassen.</summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/security/meldung/Gefaehrliche-Sicherheitsluecke-Alle-Updates-fuer-Citrix-Schwachstelle-erschienen-4646177.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/2/8/3/1/3/0/8/shutterstock_1571734357-c347bb2caaf7711c.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Admins können nun alle betroffenen Citrix-Systeme patchen. Problematisch ist, dass einige Angreifer eine Backdoor hinterlassen.</p>]]></content>
+    </entry>
+</feed>

@@ -18,6 +18,7 @@ package cmd
 import (
 	"fmt"
 
+	"github.com/kuetemeier/rssfilter/app"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
 )
@@ -30,14 +31,7 @@ var filterCmd = &cobra.Command{
 	
 	It can filter and manipulate an rss stream in many ways
 	`,
-	Run: func(cmd *cobra.Command, args []string) {
-		if viper.GetBool("verbose") {
-			fmt.Println("INFO: Applying filter")
-			fmt.Println("  Input        : " + viper.GetString("input"))
-			fmt.Println("  Output       : " + viper.GetString("output"))
-			fmt.Println("  OutputFormat : " + viper.GetString("outputFormat"))
-		}
-	},
+	Run: run,
 }
 
 func init() {
@@ -52,4 +46,22 @@ func init() {
 	// Cobra supports local flags which will only run when this command
 	// is called directly, e.g.:
 	// filterCmd.Flags().BoolP("toggle", "t", false, "Help message for toggle")
+}
+
+func run(cmd *cobra.Command, args []string) {
+	if viper.GetBool("verbose") {
+		fmt.Println("INFO: Applying filter")
+		fmt.Println("  Input        : " + viper.GetString("input"))
+		fmt.Println("  Output       : " + viper.GetString("output"))
+		fmt.Println("  OutputFormat : " + viper.GetString("outputFormat"))
+	}
+
+	feed, err := app.ImportRSSFeed(viper.GetString("input"))
+
+	if err != nil {
+		panic(err)
+	}
+
+	fmt.Println(feed.Title)
+
 }
