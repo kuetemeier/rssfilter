@@ -31,13 +31,11 @@ var appName = "rssfilter"
 // rootCmd represents the base command when called without any subcommands
 var rootCmd = &cobra.Command{
 	Use:   appName,
-	Short: "A brief description of your application",
-	Long: `A longer description that spans multiple lines and likely contains
-examples and usage of using your application. For example:
+	Short: "A commandline tool written in GO to tame, filter and convert RSS Feeds.",
+	Long: `A commandline tool written in GO to tame, filter and convert RSS Feeds.
 
-Cobra is a CLI library for Go that empowers applications.
-This application is a tool to generate the needed files
-to quickly create a Cobra application.`,
+	You can e.g. use it to transform different feed formats or filter for the latest entries.
+	`,
 	// Uncomment the following line if your bare application
 	// has an action associated with it:
 	Run: func(cmd *cobra.Command, args []string) {
