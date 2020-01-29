@@ -16,11 +16,15 @@ limitations under the License.
 package app
 
 import (
+	"errors"
+	"fmt"
 	"io/ioutil"
 	"os"
 	"strings"
 
+	feeds "github.com/gorilla/feeds"
 	"github.com/mmcdole/gofeed"
+	"github.com/spf13/viper"
 )
 
 func check(e error) {
@@ -72,4 +76,35 @@ func importRSSFeedFromStdin() (*gofeed.Feed, error) {
 	feed, err := fp.ParseString(string(data))
 
 	return feed, err
+}
+
+func info(msg string) {
+	if viper.GetBool("verbose") {
+		fmt.Println("INFO: " + msg)
+	}
+}
+
+// ExportRSSFeed exports the given feed as string
+func ExportRSSFeed(feed *feeds.Feed, destination string, format string) error {
+	f := strings.ToLower(format)
+	var res string
+	var err error
+
+	info("Output Format: " + format)
+	info("Output Destination: " + destination)
+
+	if f == "rss" {
+		res, err = feed.ToRss()
+	} else if f == "atom" {
+		res, err = feed.ToAtom()
+	} else if f == "json" {
+		res, err = feed.ToJSON()
+
+	} else {
+		return errors.New("Unknow RSS Feed export format '" + format + "'")
+	}
+
+	fmt.Println(res)
+
+	return err
 }

@@ -20,11 +20,16 @@ import (
 	"github.com/spf13/cobra"
 	"os"
 
+	feeds "github.com/gorilla/feeds"
 	homedir "github.com/mitchellh/go-homedir"
 	"github.com/spf13/viper"
 )
 
 var cfgFile string
+
+// OutputFeed is the main source for the fresh content written into the output destination
+var outputFeed *feeds.Feed
+
 var version = "0.1.0"
 var appName = "rssfilter"
 
@@ -62,6 +67,10 @@ func init() {
 	viper.SetDefault("verbose", false)
 	viper.SetDefault("silent", false)
 
+	/*viper.SetDefault("input", "STDIN")
+	viper.SetDefault("output", "STDOUT")
+	viper.SetDefault("outputFormat", "rss")*/
+
 	// Here you will define your flags and configuration settings.
 	// Cobra supports persistent flags, which, if defined here,
 	// will be global for your application.
@@ -83,7 +92,6 @@ func init() {
 	viper.BindPFlag("input", rootCmd.PersistentFlags().Lookup("input"))
 	viper.BindPFlag("output", rootCmd.PersistentFlags().Lookup("output"))
 	viper.BindPFlag("outputFormat", rootCmd.PersistentFlags().Lookup("outputFormat"))
-
 }
 
 // initConfig reads in config file and ENV variables if set.
