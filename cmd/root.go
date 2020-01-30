@@ -86,12 +86,17 @@ func init() {
 	rootCmd.PersistentFlags().StringP("output", "o", "STDOUT", "Output destination to write the new rss stream")
 	rootCmd.PersistentFlags().StringP("outputFormat", "f", "rss", "Output format (rss, atom or json)")
 
+	rootCmd.PersistentFlags().StringP("count", "c", "-1", "Max numbers of feed entries in the output feed (-1 = infinate/same as input)")
+
 	viper.BindPFlag("silent", rootCmd.PersistentFlags().Lookup("silent"))
 	viper.BindPFlag("verbose", rootCmd.PersistentFlags().Lookup("verbose"))
 
 	viper.BindPFlag("input", rootCmd.PersistentFlags().Lookup("input"))
 	viper.BindPFlag("output", rootCmd.PersistentFlags().Lookup("output"))
 	viper.BindPFlag("outputFormat", rootCmd.PersistentFlags().Lookup("outputFormat"))
+
+	viper.BindPFlag("count", rootCmd.PersistentFlags().Lookup("count"))
+
 }
 
 // initConfig reads in config file and ENV variables if set.

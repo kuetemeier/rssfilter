@@ -62,6 +62,15 @@ func run(cmd *cobra.Command, args []string) {
 		panic(err)
 	}
 
-	fmt.Println(feed.Title)
+	out, err := app.FilterFeed(feed)
 
+	if err != nil {
+		panic(err)
+	}
+
+	err = app.ExportRSSFeed(out, viper.GetString("output"), viper.GetString("outputFormat"))
+
+	if err != nil {
+		panic(err)
+	}
 }

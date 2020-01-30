@@ -62,25 +62,27 @@ var demodataCmd = &cobra.Command{
 					Title:       "Demo 1 - Feed Item Two",
 					Link:        &feeds.Link{Href: "https://demo/blog/item-two/"},
 					Description: "More thoughts on demo feed items.",
-					Created:     now,
+					Created:     now.AddDate(0, 0, -1),
+					Updated:     now,
 				},
 				&feeds.Item{
 					Title:       "Demo 1 - Feed Item Three",
 					Link:        &feeds.Link{Href: "https://demo/blog/item-three/"},
 					Description: "And another <em>great</em> demo feed item.",
-					Created:     now,
+					Created:     now.AddDate(0, 0, -2),
 				},
 				&feeds.Item{
 					Title:       "Double Item 1 in Demo 1 and 2",
 					Link:        &feeds.Link{Href: "https://demo/blog/item-double-1/"},
 					Description: "This item has the same title and link in Demo 1 and 2.",
-					Created:     now,
+					Created:     now.AddDate(0, 0, -3),
+					Updated:     now.AddDate(0, 0, -2),
 				},
 				&feeds.Item{
 					Title:       "Double Item 2 in Demo 1 and 2 - First version",
 					Link:        &feeds.Link{Href: "https://demo/blog/item-double-2/"},
 					Description: "This item has the same link, but different title in Demo 1 and 2.",
-					Created:     now,
+					Created:     now.AddDate(0, 0, -4),
 				},
 			}
 
@@ -105,25 +107,26 @@ var demodataCmd = &cobra.Command{
 					Title:       "Demo 2 - Feed Item Two",
 					Link:        &feeds.Link{Href: "https://demo/blog/item-b/"},
 					Description: "And even more thoughts on demo feed items.",
-					Created:     now,
+					Created:     now.AddDate(0, 0, -1),
 				},
 				&feeds.Item{
 					Title:       "Demo 2 - Feed Item Three",
 					Link:        &feeds.Link{Href: "https://demo/blog/item-c/"},
 					Description: "Can you believe it? Another <em>great</em> demo feed item.",
-					Created:     now,
+					Created:     now.AddDate(0, 0, -2),
 				},
 				&feeds.Item{
 					Title:       "Double Item 1 in Demo 1 and 2",
 					Link:        &feeds.Link{Href: "https://demo/blog/item-double-1/"},
 					Description: "This item has the same title and link in Demo 1 and 2.",
-					Created:     now,
+					Created:     now.AddDate(0, 0, -3),
+					Updated:     now.AddDate(0, 0, -2),
 				},
 				&feeds.Item{
 					Title:       "Double Item 2 in Demo 1 and 2 - Second version",
 					Link:        &feeds.Link{Href: "https://demo/blog/item-double-2/"},
 					Description: "This item has the same link, but different title in Demo 1 and 2.",
-					Created:     now,
+					Created:     now.AddDate(0, 0, -4),
 				},
 			}
 

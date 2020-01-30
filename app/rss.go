@@ -21,6 +21,7 @@ import (
 	"io/ioutil"
 	"os"
 	"strings"
+	"time"
 
 	feeds "github.com/gorilla/feeds"
 	"github.com/mmcdole/gofeed"
@@ -82,6 +83,128 @@ func info(msg string) {
 	if viper.GetBool("verbose") {
 		fmt.Println("INFO: " + msg)
 	}
+}
+
+// FilterFeed creates a new, filtered feed from the input.
+func FilterFeed(feed *gofeed.Feed) (*feeds.Feed, error) {
+	now := time.Now()
+
+	out := &feeds.Feed{
+		Title: "rssfilter Feed",
+		//Link:        &feeds.Link{Href: ""},
+		//Description: "",
+		//Author:      &feeds.Author{Name: "", Email: ""},
+		//Created:     now,
+	}
+
+	if len(strings.TrimSpace(feed.Title)) != 0 {
+		out.Title = strings.TrimSpace(feed.Title)
+	}
+
+	out.Link = &feeds.Link{}
+
+	if len(strings.TrimSpace(feed.Link)) != 0 {
+		out.Link.Href = strings.TrimSpace(feed.Link)
+	}
+
+	if len(strings.TrimSpace(feed.FeedLink)) != 0 {
+		out.Link.Rel = strings.TrimSpace(feed.FeedLink)
+	}
+
+	if len(strings.TrimSpace(feed.Description)) != 0 {
+		out.Description = strings.TrimSpace(feed.Description)
+	}
+
+	if feed.PublishedParsed != nil {
+		out.Created = *feed.PublishedParsed
+	}
+
+	if feed.UpdatedParsed != nil {
+		out.Updated = *feed.UpdatedParsed
+	} else {
+		out.Updated = now
+	}
+
+	if (feed.Image != nil) && (len(strings.TrimSpace(feed.Image.URL))) != 0 {
+		i := &feeds.Image{Url: feed.Image.URL}
+		if len(strings.TrimSpace(feed.Image.Title)) != 0 {
+			i.Title = feed.Image.Title
+		}
+		out.Image = i
+	}
+
+	if len(strings.TrimSpace(feed.Copyright)) != 0 {
+		out.Copyright = strings.TrimSpace(feed.Copyright)
+	}
+
+	if feed.Author != nil {
+		a := &feeds.Author{}
+
+		if len(strings.TrimSpace(feed.Author.Name)) != 0 {
+			a.Name = strings.TrimSpace(feed.Author.Name)
+		}
+
+		if len(strings.TrimSpace(feed.Author.Email)) != 0 {
+			a.Email = strings.TrimSpace(feed.Author.Email)
+		}
+
+		out.Author = a
+	}
+
+	count := viper.GetInt("count")
+
+	for i, item := range feed.Items {
+		new := &feeds.Item{}
+
+		if count > -1 {
+			if i >= count {
+				break
+			}
+		}
+
+		// Id
+		if len(strings.TrimSpace(item.GUID)) != 0 {
+			new.Id = strings.TrimSpace(item.GUID)
+		}
+
+		// Title
+		if len(strings.TrimSpace(item.Title)) != 0 {
+			new.Title = strings.TrimSpace(item.Title)
+		}
+
+		// Description
+		if len(strings.TrimSpace(item.Description)) != 0 {
+			new.Description = strings.TrimSpace(item.Description)
+		}
+
+		// Content
+		if len(strings.TrimSpace(item.Content)) != 0 {
+			new.Content = strings.TrimSpace(item.Content)
+		}
+
+		// Link
+		link := &feeds.Link{}
+		if len(strings.TrimSpace(item.Link)) != 0 {
+			link.Href = strings.TrimSpace(item.Link)
+		}
+		new.Link = link
+
+		// Publish date / time
+		if item.PublishedParsed != nil {
+			new.Created = *item.PublishedParsed
+		}
+		fmt.Println(item.Updated)
+		// Update date / time
+		if item.UpdatedParsed != nil {
+			new.Updated = *item.UpdatedParsed
+		}
+
+		// Add the new Item to the output feed
+		out.Items = append(out.Items, new)
+	}
+
+	return out, nil
+
 }
 
 // ExportRSSFeed exports the given feed as string
