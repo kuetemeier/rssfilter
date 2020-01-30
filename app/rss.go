@@ -13,6 +13,8 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 */
+
+// Package app includes functions to import, export and filter rss.
 package app
 
 import (
@@ -193,6 +195,7 @@ func FilterFeed(feed *gofeed.Feed) (*feeds.Feed, error) {
 		if item.PublishedParsed != nil {
 			new.Created = *item.PublishedParsed
 		}
+
 		fmt.Println(item.Updated)
 		// Update date / time
 		if item.UpdatedParsed != nil {

@@ -1,4 +1,5 @@
 /*
+
 Copyright © 2020 Jörg Kütemeier <joerg@kuetemeier.de>
 
 Licensed under the Apache License, Version 2.0 (the "License");
@@ -13,6 +14,8 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 */
+
+// Package cmd holds all commands.
 package cmd
 
 import (
@@ -54,7 +57,7 @@ var demodataCmd = &cobra.Command{
 				&feeds.Item{
 					Title:       "Demo 1 - Feed Item One",
 					Link:        &feeds.Link{Href: "https://demo/blog/item-one/"},
-					Description: "A wonderfull demo feed item.",
+					Description: "A wonderful demo feed item.",
 					Author:      &feeds.Author{Name: "John Müller", Email: "jmueller@demo.de"},
 					Created:     now,
 				},
@@ -99,7 +102,7 @@ var demodataCmd = &cobra.Command{
 				&feeds.Item{
 					Title:       "Demo 2 - Feed Item One",
 					Link:        &feeds.Link{Href: "https://demo/blog/item-a/"},
-					Description: "Call this a wonderfull demo feed item.",
+					Description: "Call this a wonderful demo feed item.",
 					Author:      &feeds.Author{Name: "John Müller", Email: "jmueller@demo.de"},
 					Created:     now,
 				},
