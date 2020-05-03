@@ -1,5 +1,7 @@
 # rssfilter
 
+[![Go Report Card](https://goreportcard.com/badge/github.com/kuetemeier/rssfilter)](https://goreportcard.com/report/github.com/kuetemeier/rssfilter)
+
 **A commandline tool written in GO to tame, filter and convert RSS Feeds.**
 
 You can e.g. use it to transform different feed formats or filter for the latest entries.
