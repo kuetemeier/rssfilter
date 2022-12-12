@@ -1,5 +1,13 @@
 # rssfilter
 
+## Archived!
+
+This project depends on the project [gorilla/feeds](https://github.com/gorilla/feeds),
+which was archived by its maintainers. Because of this I have to
+archive this project too until I have time to replace this dependencies.
+
+## Introduction
+
 [![Go Report Card](https://goreportcard.com/badge/github.com/kuetemeier/rssfilter)](https://goreportcard.com/report/github.com/kuetemeier/rssfilter)
 
 **A commandline tool written in GO to tame, filter and convert RSS Feeds.**
